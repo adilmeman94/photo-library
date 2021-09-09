@@ -1,0 +1,23 @@
+.spinner {
+  height: 50%;
+  width: 100%;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.conatiner1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.popup {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  background-color: green;
+  width: 20px;
+  text-align: center;
+  font-weight: bold;
+}
